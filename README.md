@@ -1,4 +1,4 @@
-# my_reuseme
+# my reuseme
 # Hailemeskel Getaneh
 **Software Engineering Student | MERN Stack Developer | React Native Enthusiast**
 
@@ -37,11 +37,8 @@ Passionate software engineering student with experience in **full-stack developm
    - A **React Native** note-taking app for easy and efficient note management.
    - Features: Create, edit, and delete notes with a user-friendly interface.
 
-### 4️⃣ [📱 PhoneBook Manager - React Native App](https://github.com/Hailemeskel-Getaneh/PhoneBook-Manager)
-   - Built a **CRUD mobile app** using **React Native (Expo)**.
-   - Features: Add, edit, delete, and search contacts with an intuitive UI.
 
-### 5️⃣ [🔧 Easy Error Solutions](https://github.com/Hailemeskel-Getaneh/EasyErrorSolutions.git)
+### 4️⃣ [🔧 Easy Error Solutions](https://github.com/Hailemeskel-Getaneh/EasyErrorSolutions.git)
    - A **developer-focused platform** to find and fix common programming errors.
    - Features: Error search, troubleshooting guides, and community solutions.
 
