@@ -32,7 +32,12 @@ Passionate software engineering student with experience in **full-stack developm
 
 ### 2️⃣ [🌍 wanderEthio - Travel Guide Website](https://github.com/Hailemeskel-Getaneh/wanderEthio)
    - Built using React.js and Node.js to **digitize travel experiences**.
-   - Features: User authentication, tour recommendations, and interactive UI.
+   - Features: 
+     - **User Authentication**: Secure login and registration system using JWT.
+     - **Tour Recommendations**: Personalized travel recommendations based on user preferences.
+     - **Interactive UI**: User-friendly interface with dynamic content loading.
+     - **Search and Filter**: Advanced search and filter options for tours and destinations.
+     - **Responsive Design**: Fully responsive for mobile, tablet, and desktop.
 
 ### 3️⃣ [📝 Note-Taking Mobile App](https://github.com/Hailemeskel-Getaneh/Note_taking_mobile_app.git)
    - A **React Native** note-taking app for easy and efficient note management.
@@ -55,4 +60,3 @@ Passionate software engineering student with experience in **full-stack developm
 💼 **LinkedIn**: [Hailemeskel Getaneh](https://linkedin.com/in/hailemeskel-getaneh)  
 💂 **GitHub**: [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh)  
 🌐 **Portfolio**: [hailemeskel.netlify.app](https://hailemeskel.netlify.app)
-
